@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T19:13:04.458319+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-12-25T20:26:01.482104+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 09时01分]"
+        },
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
