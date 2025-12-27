@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:14:45.140582+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-12-27T18:14:14.437221+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 18时14分]"
         },
         {
           "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
@@ -33,11 +33,12 @@
             15,
             18,
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 18时14分]"
         },
         {
           "title": "华为悬赏300万元求解AI难题",
