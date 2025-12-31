@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:03:17.687788+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2025-12-31T11:21:25.067082+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "软银集团宣布完成对OpenAI的额外225亿美元投资，在OpenAI中的合计持股比例现约为11%。",
@@ -14,7 +14,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "OpenAI人均股票薪酬达150万美元 创科技初创公司纪录",
+          "url": "https://flash.jin10.com/detail/20251231102353938800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
