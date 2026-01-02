@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T01:12:26.468775+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-01-03T02:20:13.341609+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
@@ -48,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         }
       ]
     }
