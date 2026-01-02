@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T19:13:20.466901+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-02T20:26:42.734240+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -24,6 +24,19 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 20时26分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -36,6 +49,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -52,28 +78,15 @@
           "time_info": "[00时17分 ~ 03时12分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 19时13分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
