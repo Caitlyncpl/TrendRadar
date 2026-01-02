@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:26:42.734240+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-01-02T21:28:34.740537+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -33,8 +33,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 21时28分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时18分 ~ 20时26分]"
+          "time_info": "[18时14分 ~ 21时28分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -49,19 +63,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -82,11 +83,23 @@
           "url": "https://www.cls.cn/detail/2246292",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时28分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时28分"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
