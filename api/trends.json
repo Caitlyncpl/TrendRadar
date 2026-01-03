@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T12:26:24.922654+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-01-03T13:15:43.526427+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
@@ -66,11 +66,12 @@
             4,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时15分]"
         }
       ]
     }
