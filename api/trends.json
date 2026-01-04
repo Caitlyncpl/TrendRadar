@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-04T18:13:56.427249+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-04T19:12:01.626695+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
