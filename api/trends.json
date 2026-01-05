@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T17:24:31.786448+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-01-05T18:18:03.389423+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 17时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 18时18分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
