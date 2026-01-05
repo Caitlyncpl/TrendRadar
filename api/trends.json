@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:18:03.389423+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-01-05T19:13:54.120398+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 19时13分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -35,6 +35,17 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
+          "url": "https://wallstreetcn.com/livenews/3030823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "腾讯启动AI小程序成长计划",
           "url": "https://wallstreetcn.com/livenews/3030544",
           "source": "华尔街见闻-快讯",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时31分]"
+        },
+        {
+          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
+          "url": "https://wallstreetcn.com/livenews/3030815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     }
