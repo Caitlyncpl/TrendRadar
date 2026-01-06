@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T21:33:07.752421+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-01-06T22:16:47.443522+08:00",
+  "total_titles_processed": 2026,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时24分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 22时16分]"
         },
         {
           "title": "阿里Qoder升级补全功能，AI代码采纳率提升65%",
