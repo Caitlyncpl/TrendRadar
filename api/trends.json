@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T03:14:31.606497+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-09T04:16:28.646262+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 04时16分]"
         },
         {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
