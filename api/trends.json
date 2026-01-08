@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-01-08T23:18:11.125195+08:00",
-  "total_titles_processed": 2174,
+  "generated_at": "2026-01-09T00:19:33.857978+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
-          "url": "https://flash.jin10.com/detail/20260108030510490800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时14分]"
-        },
-        {
-          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3032785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
-          "url": "https://wallstreetcn.com/livenews/3032905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
