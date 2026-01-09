@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-01-10T03:15:46.633976+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-10T04:16:42.390095+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://flash.jin10.com/detail/20260110030900508800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3034365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
           "url": "https://flash.jin10.com/detail/20260110030422872800",
@@ -36,9 +14,55 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20260110030900508800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时16分]"
+        },
+        {
+          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 04时16分]"
+        },
+        {
+          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
+          "url": "https://flash.jin10.com/detail/20260110031815505800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "SB ENERGY：OpenAI签署1.2吉瓦数据中心租赁协议，用于初始数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260110031752436800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     }
