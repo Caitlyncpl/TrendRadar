@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T07:13:36.093238+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-01-09T09:03:42.971573+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时03分]"
         },
         {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
@@ -37,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
