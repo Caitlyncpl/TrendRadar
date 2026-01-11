@@ -1,27 +1,33 @@
 {
-  "generated_at": "2026-01-11T23:13:17.022319+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-01-12T00:15:50.070121+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
           "url": "https://wallstreetcn.com/articles/3763033",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时19分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     }
