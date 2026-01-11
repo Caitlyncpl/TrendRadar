@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-11T12:41:58.086499+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-11T13:20:21.739421+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
