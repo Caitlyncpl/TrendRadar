@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:25:20.084471+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-12T18:18:26.674062+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -41,19 +41,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时18分]"
         }
       ]
     }
