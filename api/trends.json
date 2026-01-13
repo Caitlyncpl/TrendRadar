@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T17:21:33.585969+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-01-13T18:16:37.220274+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时16分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
