@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:36:10.477147+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2026-01-14T22:19:16.370255+08:00",
+  "total_titles_processed": 2130,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[16时20分 ~ 22时19分]"
         },
         {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
