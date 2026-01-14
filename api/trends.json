@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T15:20:27.482288+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-01-14T16:20:41.885974+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时41分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
