@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T17:22:12.148784+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-01-14T18:17:18.725983+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时17分]"
         },
         {
           "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
