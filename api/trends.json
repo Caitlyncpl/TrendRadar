@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T18:16:29.145887+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-01-15T19:14:39.803477+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[11时01分 ~ 17时21分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时06分 ~ 19时14分]"
+        },
+        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -32,20 +46,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时20分 ~ 16时21分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 18时16分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
