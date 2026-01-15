@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T06:15:27.115554+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-16T07:14:44.853909+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时14分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
