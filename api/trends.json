@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T11:02:03.551104+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-01-15T12:06:59.611812+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 12时06分]"
         },
         {
           "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时06分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时14分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
