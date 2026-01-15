@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-15T15:20:26.845097+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-01-15T16:21:06.917910+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 11,
       "titles": [
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时21分]"
+        },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
@@ -17,20 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 15时20分]"
-        },
-        {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 16时21分]"
         },
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时21分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
