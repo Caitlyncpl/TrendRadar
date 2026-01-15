@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:19:45.762680+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-16T04:16:50.122919+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时16分]"
+        },
+        {
+          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
+          "url": "https://www.zhihu.com/question/1995085840762758424",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时16分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时26分]"
-        },
-        {
-          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
-          "url": "https://www.zhihu.com/question/1995085840762758424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时19分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
