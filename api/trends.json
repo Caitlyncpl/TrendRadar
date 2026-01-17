@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:53:06.982400+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-01-17T12:27:03.489081+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时27分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
