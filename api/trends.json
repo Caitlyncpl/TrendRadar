@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T02:18:08.201827+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-19T03:11:05.043642+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 03时11分]"
         }
       ]
     }
