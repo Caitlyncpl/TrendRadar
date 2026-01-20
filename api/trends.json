@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:28:13.550861+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-20T12:39:21.660118+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时39分]"
+        },
+        {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时28分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时39分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
