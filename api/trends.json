@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T16:21:25.652757+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-01-22T17:26:19.760065+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "消息人士：阿里巴巴据悉拟让AI芯片制造部门“平头哥”进行IPO",
+          "url": "https://flash.jin10.com/detail/20260122165255705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
