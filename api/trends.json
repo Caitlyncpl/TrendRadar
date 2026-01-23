@@ -1,80 +1,33 @@
 {
-  "generated_at": "2026-01-23T23:18:40.811660+08:00",
-  "total_titles_processed": 2245,
+  "generated_at": "2026-01-24T00:20:13.426157+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
-          "url": "https://flash.jin10.com/detail/20260123040242165800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时16分]"
-        },
-        {
-          "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://wallstreetcn.com/livenews/3042264",
+          "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3043036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "OpenAI拟从客户AI辅助研发成果中分成",
-          "url": "https://flash.jin10.com/detail/20260123024532109800",
+          "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
+          "url": "https://flash.jin10.com/detail/20260123233248519800",
           "source": "金十数据",
           "ranks": [
-            8,
-            24
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时18分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR。",
-          "url": "https://wallstreetcn.com/livenews/3042253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
-          "url": "https://flash.jin10.com/detail/20260123021101684800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR（年度可重复性收入/年度经常性收入）。",
-          "url": "https://wallstreetcn.com/livenews/3042253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "00时20分"
         }
       ]
     }
