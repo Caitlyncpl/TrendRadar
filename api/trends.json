@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:26:48.265545+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-01-24T22:13:34.893694+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时13分]"
         },
         {
           "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
