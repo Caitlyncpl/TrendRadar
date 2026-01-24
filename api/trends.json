@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T03:11:54.403016+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-25T04:14:38.308592+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -26,8 +26,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     }
