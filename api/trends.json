@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T09:10:22.291505+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-01-25T11:48:06.780252+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 11时48分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 06时13分]"
+        },
+        {
+          "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
+          "url": "https://www.zhihu.com/question/1996908423174910237",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     }
