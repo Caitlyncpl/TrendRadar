@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T04:19:22.277907+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-28T05:12:33.300894+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI推出面向科学家的全新工具Prism",
+          "url": "https://flash.jin10.com/detail/20260128043059691800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     }
