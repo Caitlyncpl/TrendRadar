@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:41:27.772191+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2026-01-27T22:23:37.436714+08:00",
+  "total_titles_processed": 2021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "据纽约时报：OpenAI创始人奥尔特曼表示，美国移民和海关执法局的情况太过分了。",
+          "url": "https://flash.jin10.com/detail/20260127215123302800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     }
