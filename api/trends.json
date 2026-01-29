@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T16:30:54.346809+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-01-29T17:34:36.898170+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -27,22 +27,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时36分 ~ 16时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 17时34分]"
         },
         {
           "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2000172562634790267",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时34分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
