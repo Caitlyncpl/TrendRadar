@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:20:25.981716+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-01-30T07:19:31.095214+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时19分]"
         },
         {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
