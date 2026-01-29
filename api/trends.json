@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T18:28:49.884122+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-01-29T19:25:55.181779+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 19时25分]"
         },
         {
           "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
