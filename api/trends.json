@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T11:59:06.464623+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-01-31T13:01:46.611224+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时01分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 13时01分]"
         }
       ]
     }
