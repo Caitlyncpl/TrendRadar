@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-01T15:32:50.672533+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-02-01T16:23:05.513574+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 7,
       "titles": [
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 16时23分]"
+        },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
           "url": "https://flash.jin10.com/detail/20260131204002785800",
@@ -52,19 +66,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时32分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
