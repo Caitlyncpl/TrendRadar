@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:14:49.066249+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-01T09:24:58.868936+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -58,11 +58,23 @@
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时16分 ~ 07时14分]"
+          "appearance_count": 6,
+          "time_info": "[04时16分 ~ 09时24分]"
+        },
+        {
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
