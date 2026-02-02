@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T07:17:34.423867+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-02T09:17:18.398550+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时17分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
