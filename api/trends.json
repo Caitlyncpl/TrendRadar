@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:24:33.253565+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-02-06T05:21:29.051159+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时21分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
