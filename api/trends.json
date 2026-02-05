@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T20:40:17.898825+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-02-05T22:01:59.209176+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 22时01分]"
         },
         {
           "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
