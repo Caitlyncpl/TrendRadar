@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:41:34.366298+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-02-06T16:32:58.746240+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 16时32分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
