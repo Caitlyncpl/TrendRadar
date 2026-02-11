@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:38:34.109046+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-11T17:44:20.025499+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时44分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
