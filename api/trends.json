@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-02-11T22:11:22.200118+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-02-11T23:53:33.631330+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 6,
       "titles": [
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            11,
+            7,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 23时53分]"
+        },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
@@ -32,21 +48,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时25分 ~ 15时49分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 22时11分]"
         },
         {
           "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
