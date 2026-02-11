@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T07:32:28.239050+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-02-11T09:25:46.936763+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 06时31分]"
+        },
+        {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     }
