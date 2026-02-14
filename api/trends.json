@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:23:09.724715+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-02-14T18:18:52.512081+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
