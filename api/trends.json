@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T20:30:58.778456+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-15T21:40:29.441332+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     }
