@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:41:21.164321+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-02-16T19:35:07.848738+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 18时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时15分 ~ 19时35分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
