@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:42:44.919039+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-02-19T04:31:01.829429+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时31分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -28,8 +28,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         }
       ]
     }
