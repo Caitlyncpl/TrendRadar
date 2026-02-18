@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T22:03:24.585093+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-02-18T23:43:32.074653+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时45分 ~ 22时03分]"
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 23时43分]"
         },
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
