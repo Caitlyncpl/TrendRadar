@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T06:23:38.557487+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-02-20T07:23:04.441262+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时23分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -27,8 +28,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时23分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
