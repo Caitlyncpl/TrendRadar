@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:37:23.779589+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-02-19T19:33:29.484179+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -23,8 +23,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 18时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 19时33分]"
         },
         {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     }
