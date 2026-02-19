@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T07:22:03.271510+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-02-19T09:18:46.233529+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 09时18分]"
         },
         {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
