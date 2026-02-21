@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:32:26.536132+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-02-21T15:27:08.615810+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             18,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 15时27分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -58,11 +59,12 @@
           "ranks": [
             7,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时27分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
