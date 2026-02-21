@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:22:33.105029+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-21T18:18:25.122815+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 09时12分]"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
