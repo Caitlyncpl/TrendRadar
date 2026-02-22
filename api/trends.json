@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:23:17.110222+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-02-22T18:17:18.585169+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 17时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 18时17分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -28,11 +28,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 18时17分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -41,11 +42,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 18时17分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
