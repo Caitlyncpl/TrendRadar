@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T15:11:18.032416+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-02-23T16:39:31.871097+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时39分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
