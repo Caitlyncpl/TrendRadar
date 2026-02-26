@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T09:14:36.621439+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-02-26T12:09:12.892356+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时06分]"
+        },
+        {
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国证交会文件显示：英伟达表示，我们正在敲定与OpenAI的投资与合作伙伴关系协议，但无法保证一定会与OpenAI达成协议。",
