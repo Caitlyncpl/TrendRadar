@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:30:22.377523+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-02-27T19:26:32.485187+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,22 @@
           "time_info": "[00时47分 ~ 07时22分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5,
+            26,
+            18,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时26分]"
+        },
+        {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
           "url": "https://wallstreetcn.com/articles/3766280",
           "source": "华尔街见闻",
@@ -28,23 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 18时30分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            5,
-            26,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 19时26分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
