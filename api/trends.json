@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T12:05:51.811946+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-02-27T13:46:06.438659+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -26,8 +26,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时46分]"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时05分]"
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
