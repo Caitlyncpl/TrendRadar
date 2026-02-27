@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:40:46.355649+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-02-27T16:32:39.145196+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时13分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 16时32分]"
         },
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -40,8 +40,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 16时32分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
