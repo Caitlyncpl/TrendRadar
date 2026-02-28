@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:15:35.136877+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2026-02-28T23:14:46.083248+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[14时27分 ~ 23时14分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -179,6 +179,19 @@
           "time_info": "[19时12分 ~ 21时32分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时14分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -201,18 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时49分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时15分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
