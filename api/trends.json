@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T12:15:08.742090+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-03-01T13:45:53.639037+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时45分]"
         },
         {
           "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时45分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -43,7 +43,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
