@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T15:28:04.909972+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-03-01T16:21:47.072088+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 16时21分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -33,11 +33,12 @@
             8,
             12,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
