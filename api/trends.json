@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:33:56.135781+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-03-03T18:32:32.221381+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "time_info": "[05时25分 ~ 06时20分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
           "source": "澎湃新闻",
@@ -65,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时35分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时33分]"
         },
         {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
