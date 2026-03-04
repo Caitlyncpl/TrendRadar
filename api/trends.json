@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-05T00:33:36.665108+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:33:16.269630+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为发布AI数据平台，加速企业AI落地应用",
+          "url": "https://wallstreetcn.com/livenews/3063794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
@@ -15,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时33分]"
         }
       ]
     }
