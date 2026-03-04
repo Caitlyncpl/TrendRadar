@@ -1,186 +1,22 @@
 {
-  "generated_at": "2026-03-04T23:32:22.794999+08:00",
-  "total_titles_processed": 2193,
+  "generated_at": "2026-03-05T00:33:36.665108+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 15,
+      "match_count": 1,
       "titles": [
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            11,
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时38分 ~ 23时32分]"
-        },
-        {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时36分]"
-        },
-        {
-          "title": "OpenAI正在考虑达成一项协议，将其AI部署在北约的所有机密网络上。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "OpenAI的下一款AI模型将具备“极其强大的”推理。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
-          "url": "https://wallstreetcn.com/livenews/3063046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
-          "url": "https://wallstreetcn.com/livenews/3062952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时35分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
-          "url": "https://wallstreetcn.com/livenews/3062972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时24分]"
-        },
-        {
-          "title": "OpenAI正开发GitHub的替代品。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
-          "url": "https://flash.jin10.com/detail/20260304021024141800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "Claude崩了，全球AI因何“熔断”？",
-          "url": "https://wallstreetcn.com/articles/3766631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
-          "url": "https://flash.jin10.com/detail/20260304020932534800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
-          "url": "https://flash.jin10.com/detail/20260304064514298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "据The Information：OpenAI下一个AI模型将具备极强的推理能力。",
-          "url": "https://flash.jin10.com/detail/20260304230257187800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3062945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "OpenAI：推出 GPT‑5.3 即时网站。",
-          "url": "https://flash.jin10.com/detail/20260304020800832800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "00时33分"
         }
       ]
     }
