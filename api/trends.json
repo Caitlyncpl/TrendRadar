@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T21:52:01.496866+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2026-03-04T22:34:03.294959+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时38分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[13时38分 ~ 22时34分]"
         },
         {
           "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
