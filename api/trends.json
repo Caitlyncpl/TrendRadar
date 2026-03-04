@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T05:26:54.724744+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-03-05T06:23:28.649840+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -60,7 +61,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
