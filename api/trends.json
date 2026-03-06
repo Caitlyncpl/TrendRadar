@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:39:59.408541+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-03-06T14:37:32.581466+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 14时37分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时19分 ~ 13时39分]"
+          "time_info": "[12时02分 ~ 14时37分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -45,18 +57,6 @@
           "time_info": "[03时09分 ~ 04时31分]"
         },
         {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时39分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
           "url": "https://flash.jin10.com/detail/20260306024056758800",
           "source": "金十数据",
@@ -74,7 +74,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
