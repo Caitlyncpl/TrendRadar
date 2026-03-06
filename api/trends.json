@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T17:31:42.299359+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-03-06T18:27:15.954424+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 18时27分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
