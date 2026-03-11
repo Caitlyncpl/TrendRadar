@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:42:57.622032+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-12T03:37:54.743715+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时37分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
