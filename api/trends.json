@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:27:51.044238+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2026-03-12T20:38:33.805207+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[15时41分 ~ 20时38分]"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
