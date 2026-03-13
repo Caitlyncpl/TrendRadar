@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-03-13T23:35:45.326650+08:00",
-  "total_titles_processed": 2129,
+  "generated_at": "2026-03-14T00:32:01.668815+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
