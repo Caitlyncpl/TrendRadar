@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T03:50:26.152185+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-03-17T04:30:44.967361+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时30分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时30分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -37,11 +37,12 @@
           "ranks": [
             16,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时30分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
