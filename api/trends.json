@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T06:25:35.742120+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-03-19T07:42:08.682408+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时25分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时42分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -37,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时42分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -49,7 +40,19 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时42分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
