@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:42:08.682408+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-19T09:21:15.749717+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -28,11 +28,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 07时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 09时21分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 06时25分]"
+        },
+        {
+          "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
+          "url": "https://wallstreetcn.com/livenews/3072785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     }
