@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:07:22.841272+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2026-03-19T23:44:48.783475+08:00",
+  "total_titles_processed": 2204,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时02分 ~ 22时07分]"
+          "appearance_count": 29,
+          "time_info": "[00时02分 ~ 23时44分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
