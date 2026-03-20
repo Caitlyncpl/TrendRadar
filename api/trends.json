@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:25:13.238834+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-03-20T20:38:00.057685+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 19时25分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 20时37分]"
         },
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
