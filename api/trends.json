@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-22T15:33:33.905111+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-22T16:25:04.381729+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 2,
       "titles": [
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 16时25分]"
+        },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
@@ -19,20 +34,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 12时12分]"
-        },
-        {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 15时33分]"
         }
       ]
     }
