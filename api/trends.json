@@ -1,72 +1,33 @@
 {
-  "generated_at": "2026-03-26T22:22:26.395945+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2026-03-27T00:05:04.623491+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            16,
-            15,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 22时22分]"
-        },
-        {
-          "title": "从阿里离职后，林俊旸首度发文详谈对大模型发展路线的理解及对AI下一阶段的预判。 他的判断是智能体式思考：为了行动而思考，在与环境交互的过程中，并根据来自世界的反馈持续更新计划。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3077519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时41分]"
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
-          "url": "https://wallstreetcn.com/livenews/3076984",
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
-          "url": "https://wallstreetcn.com/livenews/3077209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "00时05分"
         }
       ]
     }
