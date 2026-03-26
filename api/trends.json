@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T06:20:17.014956+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-03-27T07:23:34.113871+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
