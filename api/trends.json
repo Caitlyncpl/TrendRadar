@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-30T12:38:49.727944+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-03-30T14:26:17.234100+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里达摩院与东软医疗达成战略合作 推动多癌早筛AI普及",
+          "url": "https://flash.jin10.com/detail/20260330140530245800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
