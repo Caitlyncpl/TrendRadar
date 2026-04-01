@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:35:03.766019+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-02T06:29:20.843910+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             16,
             14,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时29分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
