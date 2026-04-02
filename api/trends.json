@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-03T02:44:12.393794+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-04-03T03:43:48.825137+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 03时43分]"
+        },
         {
           "title": "市场消息：OpenAI收购TBPN。",
           "url": "https://flash.jin10.com/detail/20260403012712890800",
@@ -20,25 +33,13 @@
           "time_info": "[01时42分 ~ 02时44分]"
         },
         {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时44分]"
-        },
-        {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
           "url": "https://flash.jin10.com/detail/20260403014329436800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         }
