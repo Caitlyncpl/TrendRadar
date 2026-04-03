@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:40:19.554105+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-04-03T23:34:30.641536+08:00",
+  "total_titles_processed": 2013,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 22时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时34分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
