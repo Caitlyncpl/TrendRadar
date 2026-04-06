@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-04-06T23:39:09.683784+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-04-07T00:37:34.501021+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
+          "title": "报道：OpenAI计划最早今年四季度IPO",
+          "url": "https://wallstreetcn.com/livenews/3082897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时28分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
-          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3082679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 09时28分]"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://flash.jin10.com/detail/20260406183015530800",
+          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
+          "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260406043433475800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://wallstreetcn.com/livenews/3082798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "00时37分"
         }
       ]
     }
