@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T07:26:23.150977+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-04-06T09:28:49.768639+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时28分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时26分]"
+          "appearance_count": 4,
+          "time_info": "[05时23分 ~ 09时28分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
