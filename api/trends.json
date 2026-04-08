@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T23:02:49.506211+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2026-04-09T01:07:51.023096+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：启动美国儿童保护框架蓝图，已建立并将持续加强安全防护措施。",
-          "url": "https://wallstreetcn.com/livenews/3084343",
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "01时07分"
         }
       ]
     }
