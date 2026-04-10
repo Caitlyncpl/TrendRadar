@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T14:28:08.945045+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-04-10T16:17:49.814221+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
