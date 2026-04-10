@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:02:27.099399+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-04-10T19:41:18.559081+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 19时41分]"
         },
         {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
