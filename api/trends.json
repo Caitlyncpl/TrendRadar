@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:26:17.235374+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-04-11T19:24:12.544509+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 19时24分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
