@@ -1,45 +1,33 @@
 {
-  "generated_at": "2026-04-13T23:52:35.952255+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-04-14T00:55:25.391012+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时25分]"
-        },
-        {
-          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3086976",
+          "title": "Claude：正调查Claude.AI出现的一个问题。",
+          "url": "https://wallstreetcn.com/livenews/3087075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "00时55分"
         },
         {
-          "title": "据CNBC：OpenAI在备忘录中盛赞与亚马逊(AMZN.O)的联盟，称微软(MSFT.O)“限制了其触达客户的能力”。",
-          "url": "https://flash.jin10.com/detail/20260413203327986800",
+          "title": "Claude：正在调查Claude.ai出现的问题。",
+          "url": "https://flash.jin10.com/detail/20260414000010753800",
           "source": "金十数据",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时04分"
+          "time_info": "00时55分"
         }
       ]
     }
