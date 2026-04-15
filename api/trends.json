@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:35:01.171789+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-04-16T07:36:00.193105+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 07时36分]"
         },
         {
           "title": "Claude：正调查Claude.AI出错率偏高这个问题。",
