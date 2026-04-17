@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T12:43:28.368308+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-04-17T14:31:49.381433+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 14时31分]"
         },
         {
           "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
