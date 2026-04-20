@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:38:15.339522+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-04-21T05:39:38.756602+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             23,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时53分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[02时53分 ~ 05时39分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
