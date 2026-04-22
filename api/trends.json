@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T14:32:11.607841+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-04-22T16:26:19.476928+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 16时26分]"
         },
         {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
