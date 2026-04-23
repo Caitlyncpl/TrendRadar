@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T06:36:08.976202+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-04-24T07:37:42.532578+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
+          "url": "https://flash.jin10.com/detail/20260424064650416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
