@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T15:02:24.501980+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-04-24T17:02:34.546465+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 17时02分]"
         },
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
