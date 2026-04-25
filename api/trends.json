@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:55:20.997882+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-04-25T18:37:01.285414+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时37分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
