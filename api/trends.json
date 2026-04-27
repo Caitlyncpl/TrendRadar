@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T03:40:26.684648+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-28T04:54:05.766870+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时54分]"
         },
         {
           "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
