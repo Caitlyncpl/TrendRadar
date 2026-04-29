@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T04:54:14.120751+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-30T05:54:02.647869+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时54分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时54分]"
         }
       ]
     }
