@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:50:02.071914+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-05-01T06:43:23.030092+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2361533",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 06时43分]"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
