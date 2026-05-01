@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T18:17:21.216368+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-05-01T19:52:39.087903+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时49分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[05时49分 ~ 19时52分]"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
