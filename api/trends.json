@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T16:21:09.099417+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-05-02T17:55:07.728770+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 17时55分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 17时55分]"
         }
       ]
     }
