@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-05T13:15:04.746165+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-05-05T15:55:39.607728+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260505154538750800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771533",
