@@ -1,90 +1,66 @@
 {
-  "generated_at": "2026-05-05T23:32:22.395780+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-05-06T01:35:45.454568+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
-          "url": "https://flash.jin10.com/detail/20260505154538750800",
-          "source": "金十数据",
+          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
+          "url": "https://wallstreetcn.com/livenews/3098871",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时55分"
+          "time_info": "01时35分"
         },
         {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 13时15分]"
-        },
-        {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 19时12分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
-          "url": "https://wallstreetcn.com/livenews/3098593",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
+          "url": "https://flash.jin10.com/detail/20260506010514286800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "01时35分"
         },
         {
-          "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
-          "url": "https://flash.jin10.com/detail/20260505022512889800",
+          "title": "OpenAI：记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。",
+          "url": "https://flash.jin10.com/detail/20260506010504904800",
           "source": "金十数据",
           "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "01时35分"
         },
         {
-          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
-          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "title": "OpenAI：对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。",
+          "url": "https://flash.jin10.com/detail/20260506010453455800",
           "source": "金十数据",
           "ranks": [
-            25
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "01时35分"
         },
         {
-          "title": "消息人士：OpenAI合资公司正洽谈收购三家AI服务公司。",
-          "url": "https://flash.jin10.com/detail/20260505230237105800",
+          "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
+          "url": "https://flash.jin10.com/detail/20260506010425675800",
           "source": "金十数据",
           "ranks": [
-            27
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时32分"
+          "time_info": "01时35分"
         }
       ]
     }
