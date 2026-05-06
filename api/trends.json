@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:26:40.435424+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-06T16:09:14.679209+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 13时26分]"
+        },
+        {
+          "title": "郭明錤：OpenAI智能体手机冲击明年量产 目标两年出货3000万部",
+          "url": "https://www.cls.cn/detail/2363135",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "OpenAI或加速手机开发",
