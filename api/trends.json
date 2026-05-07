@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-05-07T21:29:44.174707+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-05-08T00:02:19.374328+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
-          "url": "https://flash.jin10.com/detail/20260507030831224800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
-          "url": "https://www.zhihu.com/question/2035283954274493764",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时04分]"
-        },
-        {
-          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20260507064154537800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
-          "url": "https://wallstreetcn.com/livenews/3099536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
