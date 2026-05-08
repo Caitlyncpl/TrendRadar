@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T07:45:30.993776+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-05-08T10:08:02.033974+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时27分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[03时27分 ~ 10时08分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -50,7 +51,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
