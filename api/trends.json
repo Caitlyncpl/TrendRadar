@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T13:23:56.643534+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-05-08T15:17:32.942789+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时27分 ~ 13时23分]"
+          "appearance_count": 10,
+          "time_info": "[03时27分 ~ 15时17分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时17分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -32,6 +45,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时27分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时17分]"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
@@ -67,17 +92,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "OpenAI：通过API中的新模型推动语音智能发展。",
           "url": "https://flash.jin10.com/detail/20260508011634197800",
           "source": "金十数据",
@@ -87,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         }
       ]
     }
