@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:11:04.178846+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-05-08T23:14:44.266476+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             15,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 21时11分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 23时14分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
