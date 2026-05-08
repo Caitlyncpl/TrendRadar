@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:17:32.942789+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-08T17:08:26.974233+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时27分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[03时27分 ~ 17时08分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 17时08分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 03时27分]"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时17分]"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
