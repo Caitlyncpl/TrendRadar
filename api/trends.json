@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:15:16.465630+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-05-09T23:43:21.503326+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 23时43分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -43,11 +44,12 @@
             11,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时43分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -71,19 +73,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时09分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时43分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
           "url": "https://www.zhihu.com/question/2036152296388523178",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时43分]"
         }
       ]
     }
