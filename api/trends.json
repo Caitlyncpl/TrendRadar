@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T17:09:38.766740+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-05-09T18:49:18.797416+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,25 @@
             16,
             11,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时49分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 18时49分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -47,25 +61,13 @@
           "time_info": "[13时26分 ~ 17时09分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时09分]"
-        },
-        {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
