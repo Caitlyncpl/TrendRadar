@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T07:47:40.233918+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-05-09T10:02:14.473033+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 06时46分]"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     }
