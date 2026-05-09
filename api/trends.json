@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-09T19:42:37.545317+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-05-09T20:56:05.754940+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 5,
       "titles": [
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时46分]"
-        },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
@@ -32,8 +20,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 20时56分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时46分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -42,11 +42,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 20时56分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -58,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 20时56分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -69,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 20时56分]"
         }
       ]
     }
