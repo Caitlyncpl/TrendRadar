@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T18:49:18.797416+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-05-09T19:42:37.545317+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             11,
             9,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 19时42分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -44,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时44分 ~ 19时42分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -57,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 19时42分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 19时42分]"
         }
       ]
     }
