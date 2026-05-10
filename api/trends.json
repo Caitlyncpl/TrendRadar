@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:58:42.316412+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-05-10T17:26:29.927321+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时26分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -89,11 +90,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时26分]"
         }
       ]
     }
