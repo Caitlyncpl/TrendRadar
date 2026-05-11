@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-11T18:30:32.802341+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-11T21:39:00.627837+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "布鲁克菲尔德将投资5亿美元，与OpenAI建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3101686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司以组建私募股权合资企业",
+          "url": "https://wallstreetcn.com/livenews/3101685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "OpenAI：启动OpenAI部署公司；该部署公司帮助企业构建人工智能。",
+          "url": "https://flash.jin10.com/detail/20260511211207553800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
           "url": "https://wallstreetcn.com/articles/3771914",
@@ -39,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "OpenAI将与TPG和Brookfield合作成立新合资企业，推动人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260511210031661800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司TOMORO以成立私募股权合资企业。",
+          "url": "https://flash.jin10.com/detail/20260511210017337800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     }
