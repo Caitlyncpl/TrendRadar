@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T08:04:00.563604+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-05-13T10:12:22.825628+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时26分]"
+        },
+        {
+          "title": "Create2026百度AI开发者大会",
+          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "百度李彦宏：AI时代的度量衡是日活智能体数",
+          "url": "https://flash.jin10.com/detail/20260513100228613800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
