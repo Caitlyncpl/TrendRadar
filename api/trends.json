@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T06:58:59.316335+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-05-14T07:54:36.285934+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772197",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时54分]"
         },
         {
           "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
