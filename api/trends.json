@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T01:16:48.217754+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-14T04:10:25.299023+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260514005028285800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
           "url": "https://wallstreetcn.com/articles/3772197",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 04时10分]"
+        },
+        {
+          "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260514005028285800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
