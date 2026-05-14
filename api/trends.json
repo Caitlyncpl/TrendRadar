@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T14:17:04.061166+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-05-14T17:29:10.984857+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 14时17分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 17时29分]"
         },
         {
           "title": "市场消息：数据显示，微软在与OpenAI的合作中已投资1000亿美元。",
@@ -42,6 +43,31 @@
           "time_info": "10时14分"
         },
         {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 17时29分]"
+        },
+        {
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 17时29分]"
+        },
+        {
           "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
           "url": "https://flash.jin10.com/detail/20260514043922541800",
           "source": "金十数据",
@@ -54,36 +80,13 @@
           "time_info": "[05时19分 ~ 06时58分]"
         },
         {
-          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
-          "url": "https://www.zhihu.com/question/2037950969506428373",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 14时17分]"
-        },
-        {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
-        },
-        {
           "title": "阿里云发布万小智2.0：打通AI建站、域名备案到上线运营全流程",
           "url": "https://flash.jin10.com/detail/20260514140756998800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
