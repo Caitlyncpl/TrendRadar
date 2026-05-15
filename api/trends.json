@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T14:26:18.874626+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-15T17:40:25.547698+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 17时40分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
