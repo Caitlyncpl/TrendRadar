@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-16T21:01:46.948600+08:00",
-  "total_titles_processed": 1316,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-05-16T22:23:03.789902+08:00",
+  "total_titles_processed": 1397,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
@@ -15,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时23分]"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
@@ -27,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时23分]"
         },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
