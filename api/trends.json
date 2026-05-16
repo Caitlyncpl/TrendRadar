@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T22:23:03.789902+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-05-16T23:50:32.920372+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时44分 ~ 23时50分]"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
