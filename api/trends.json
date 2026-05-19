@@ -1,66 +1,22 @@
 {
-  "generated_at": "2026-05-19T21:51:17.617692+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-05-20T00:45:57.204240+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "英伟达：Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
-          "url": "https://wallstreetcn.com/livenews/3105632",
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "马斯克对OpenAI诉讼被驳回",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "00时45分"
         }
       ]
     }
