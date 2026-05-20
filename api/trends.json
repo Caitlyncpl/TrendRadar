@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T14:42:00.908746+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-05-20T18:21:12.275505+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 18时21分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
