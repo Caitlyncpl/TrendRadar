@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T10:29:00.415474+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-05-20T14:42:00.908746+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时42分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时54分 ~ 10时29分]"
+          "appearance_count": 7,
+          "time_info": "[02时54分 ~ 14时42分]"
         },
         {
           "title": "OpenAI创始人跳槽Anthropic",
