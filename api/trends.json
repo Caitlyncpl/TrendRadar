@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T10:29:39.787093+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-05-21T14:44:13.660443+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮",
+          "url": "https://www.cls.cn/detail/2377274",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "消息称OpenAI最早或于本周五秘密提交IPO申请",
