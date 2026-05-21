@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:47:15.788436+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-22T06:12:43.775930+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时12分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
