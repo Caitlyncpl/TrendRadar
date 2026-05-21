@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T14:44:13.660443+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2026-05-21T18:33:00.260389+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
+          "title": "阿里云陈宇森透露 MuleRun 为阿里产品，AI Native 转型窗口期仅 18 个月，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040758441325618022",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 18时33分]"
         },
         {
           "title": "消息称OpenAI最早或于本周五秘密提交IPO申请",
