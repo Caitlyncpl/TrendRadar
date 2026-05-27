@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-27T22:20:42.520245+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-05-28T01:52:36.493916+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
