@@ -1,56 +1,33 @@
 {
-  "generated_at": "2026-05-29T20:42:21.689743+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-05-30T00:37:19.068474+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 20时42分]"
-        },
-        {
-          "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
-          "url": "https://flash.jin10.com/detail/20260529122311916800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时07分"
+          "time_info": "00时37分"
         },
         {
-          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3110889",
+          "title": "OpenAI确认推出Rosalind BioDefense Program。",
+          "url": "https://wallstreetcn.com/livenews/3111534",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260529023507958800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "00时37分"
         }
       ]
     }
