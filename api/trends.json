@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:45:20.326841+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-31T05:53:01.434257+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时45分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 05时53分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
