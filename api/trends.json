@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-05T14:59:37.828341+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-06-05T18:46:00.873236+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
         {
           "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
           "url": "https://flash.jin10.com/detail/20260605000634320800",
@@ -36,7 +58,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
