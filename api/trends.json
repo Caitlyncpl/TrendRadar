@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T18:46:00.873236+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-05T21:49:51.805526+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 21时49分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
