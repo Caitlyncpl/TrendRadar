@@ -1,60 +1,22 @@
 {
-  "generated_at": "2026-06-06T23:07:25.810587+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-06-07T01:02:16.535188+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时01分]"
-        },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            9,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 23时07分]"
-        },
-        {
-          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
-          "url": "https://www.zhihu.com/question/2046240341729042945",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时48分]"
-        },
-        {
-          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
-          "url": "https://www.zhihu.com/question/2046178335382843425",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
