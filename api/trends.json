@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T21:09:51.714888+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-06-06T23:07:25.810587+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 23时07分]"
         },
         {
           "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
