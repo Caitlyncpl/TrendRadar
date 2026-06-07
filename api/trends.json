@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:02:32.375871+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-07T21:23:19.326524+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             1,
             11,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 21时23分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 21时23分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
