@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T06:59:34.243687+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-06-07T08:04:03.007996+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时04分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时04分]"
         }
       ]
     }
