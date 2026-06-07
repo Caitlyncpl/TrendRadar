@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T16:46:13.653025+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-06-07T19:02:32.375871+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             14,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时58分 ~ 16时46分]"
+          "appearance_count": 6,
+          "time_info": "[05时58分 ~ 19时02分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -39,22 +40,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时02分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 19时02分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
