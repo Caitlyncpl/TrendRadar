@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:32:14.612403+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-06-09T21:38:43.411720+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时41分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时41分 ~ 21时38分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
