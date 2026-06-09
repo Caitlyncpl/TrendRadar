@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T05:42:23.146978+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-10T07:12:33.840880+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时12分]"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
