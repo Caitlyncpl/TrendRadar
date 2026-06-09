@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T03:09:04.937871+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-10T05:42:23.146978+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
-          "url": "https://www.zhihu.com/question/2046196309359646371",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时09分]"
-        },
-        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
             8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时42分]"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            7,
             9
           ],
           "is_new": false,
