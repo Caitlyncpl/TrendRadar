@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-14T06:55:35.825605+08:00",
-  "total_titles_processed": 431,
-  "failed_sources": [],
+  "generated_at": "2026-06-14T08:01:23.813623+08:00",
+  "total_titles_processed": 466,
+  "failed_sources": [
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
@@ -14,11 +16,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 08时01分]"
         }
       ]
     }
