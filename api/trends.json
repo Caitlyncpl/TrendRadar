@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T19:25:02.237729+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-06-14T21:31:27.237037+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 21时31分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
