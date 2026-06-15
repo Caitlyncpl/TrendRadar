@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-15T20:59:44.922905+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-06-16T02:02:12.732757+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 08时03分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
