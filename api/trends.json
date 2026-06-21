@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-21T23:07:40.849745+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-22T01:20:07.730010+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
-          "url": "https://www.zhihu.com/question/2050866813181994242",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
-          "url": "https://flash.jin10.com/detail/20260621120212050800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
