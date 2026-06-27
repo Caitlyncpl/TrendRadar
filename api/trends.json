@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T19:21:45.669293+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-06-27T21:11:43.816055+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "02时24分"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 21时11分]"
+        },
+        {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
           "source": "华尔街见闻",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 06时04分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时21分]"
         },
         {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
