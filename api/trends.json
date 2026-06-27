@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:56:12.841216+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-06-28T06:56:32.355125+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时56分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 05时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时56分]"
         }
       ]
     }
