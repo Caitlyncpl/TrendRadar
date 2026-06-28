@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T07:56:00.453287+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-28T10:36:04.204526+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时36分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时56分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 10时36分]"
         }
       ]
     }
