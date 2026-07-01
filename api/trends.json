@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:11:14.517291+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-07-02T01:08:01.030814+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
-          "url": "https://wallstreetcn.com/livenews/3127224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
