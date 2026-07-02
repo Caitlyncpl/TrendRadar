@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-07-02T23:07:08.820388+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-07-03T01:28:26.776956+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 14时32分]"
-        },
-        {
-          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
-          "url": "https://flash.jin10.com/detail/20260702041739954800",
+          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
+          "url": "https://flash.jin10.com/detail/20260703004456845800",
           "source": "金十数据",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "01时28分"
         }
       ]
     }
