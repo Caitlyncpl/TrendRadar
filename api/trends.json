@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-02T07:04:06.352075+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-07-02T10:27:09.672302+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
           "url": "https://flash.jin10.com/detail/20260702041739954800",
