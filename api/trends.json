@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T10:27:09.672302+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-02T14:32:25.881325+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时32分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
