@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-07-05T23:06:47.181261+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-06T00:57:13.948421+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 23时06分]"
-        },
-        {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "time_info": "[00时56分 ~ 00时57分]"
         }
       ]
     }
