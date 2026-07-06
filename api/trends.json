@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T10:54:26.824213+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-06T15:03:34.076380+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 10时54分]"
+        },
+        {
+          "title": "沙利文全栈AI云服务报告：阿里云占比40.1%",
+          "url": "https://wallstreetcn.com/livenews/3129194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     }
