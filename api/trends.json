@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T03:44:16.806140+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-07-07T05:22:42.783525+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 05时22分]"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
         }
