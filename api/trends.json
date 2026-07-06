@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T19:56:34.406564+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-06T23:01:59.452862+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/articles/3776245",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 23时01分]"
         },
         {
           "title": "沙利文全栈AI云服务报告：阿里云占比40.1%",
