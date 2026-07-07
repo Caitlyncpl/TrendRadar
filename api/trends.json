@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T16:16:53.440875+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-07-07T19:39:35.017078+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[01时46分 ~ 08时08分]"
         },
         {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 19时39分]"
+        },
+        {
           "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
           "url": "https://flash.jin10.com/detail/20260707121237234800",
           "source": "金十数据",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
