@@ -1,80 +1,44 @@
 {
-  "generated_at": "2026-07-07T22:09:30.510288+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-07-08T01:07:17.974740+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时46分 ~ 08时08分]"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7,
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 19时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
-          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
-          "url": "https://flash.jin10.com/detail/20260707121237234800",
+          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
+          "url": "https://flash.jin10.com/detail/20260708003008011800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "01时07分"
         },
         {
-          "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260707024555773800",
+          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
+          "url": "https://flash.jin10.com/detail/20260708002232140800",
           "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3129608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
-          "url": "https://wallstreetcn.com/livenews/3129706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "01时07分"
         }
       ]
     }
