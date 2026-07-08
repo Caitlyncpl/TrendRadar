@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T15:32:24.816447+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-08T18:09:05.584802+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
