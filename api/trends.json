@@ -1,117 +1,22 @@
 {
-  "generated_at": "2026-07-09T21:44:02.406258+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-07-10T00:23:24.946688+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时20分 ~ 15时30分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时02分]"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
-        },
-        {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
+          "url": "https://flash.jin10.com/detail/20260709233707293800",
           "source": "金十数据",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
-          "url": "https://flash.jin10.com/detail/20260709010344704800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI：推出GPT-LIVE。",
-          "url": "https://flash.jin10.com/detail/20260709010325337800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI推出GPT-Live语音模型",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
-          "url": "https://flash.jin10.com/detail/20260709043940767800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "OpenAI：发布国家安全原则文件。",
-          "url": "https://flash.jin10.com/detail/20260709043809283800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "00时23分"
         }
       ]
     }
