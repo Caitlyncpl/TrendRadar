@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T08:02:16.090642+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-07-09T11:32:09.659525+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
@@ -8,25 +8,26 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 08时02分]"
-        },
-        {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
           "url": "https://wallstreetcn.com/articles/3776428",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时20分 ~ 11时32分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
