@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T11:32:09.659525+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-07-09T15:30:50.454937+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 11时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时20分 ~ 15时30分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
