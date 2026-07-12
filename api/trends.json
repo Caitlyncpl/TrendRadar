@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T20:58:20.238679+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-07-12T22:25:26.847715+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 22时25分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
