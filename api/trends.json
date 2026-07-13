@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T09:52:43.448584+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-07-13T13:28:04.299306+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 13时28分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -26,7 +27,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -37,9 +38,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "大和下调腾讯目标价至670港元 调整AI资本开支及盈利预测",
+          "url": "https://flash.jin10.com/detail/20260713122910026800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     }
