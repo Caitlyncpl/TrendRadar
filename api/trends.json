@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:48:15.638436+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-07-14T19:19:56.498965+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
