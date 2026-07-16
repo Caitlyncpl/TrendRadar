@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T12:52:55.300459+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-07-16T15:16:40.739246+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -14,18 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
-          "url": "https://flash.jin10.com/detail/20260716121739470800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -34,9 +23,21 @@
           "url": "https://www.zhihu.com/question/2060770809543758786",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时16分]"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
+          "url": "https://flash.jin10.com/detail/20260716121739470800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
