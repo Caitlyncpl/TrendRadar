@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T12:56:03.001377+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-07-17T15:12:01.015181+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时12分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
