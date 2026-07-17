@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T15:12:01.015181+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-07-17T17:48:24.846816+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
       "match_count": 4,
       "titles": [
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 17时48分]"
+        },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
           "url": "https://flash.jin10.com/detail/20260717004805940800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时12分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
