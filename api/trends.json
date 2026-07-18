@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:01:48.348908+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-07-19T04:47:55.919651+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2430308",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时47分]"
         },
         {
           "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
