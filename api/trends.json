@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-19T02:48:09.066784+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-07-19T04:01:48.348908+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
         {
           "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
           "url": "https://flash.jin10.com/detail/20260718213228936800",
