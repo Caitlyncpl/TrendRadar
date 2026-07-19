@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T02:52:58.680122+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-20T04:04:12.522853+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时04分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时04分]"
         }
       ]
     }
