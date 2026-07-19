@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T06:42:40.012572+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-07-20T07:49:37.622822+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时49分]"
         },
         {
           "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时49分]"
         },
         {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
