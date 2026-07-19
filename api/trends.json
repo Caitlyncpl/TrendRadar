@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T09:48:01.762027+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-07-19T13:13:44.416726+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时01分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[04时01分 ~ 13时13分]"
+        },
+        {
+          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
+          "url": "https://wallstreetcn.com/articles/3777301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 13时13分]"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -31,19 +45,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时40分 ~ 09时48分]"
-        },
-        {
-          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
-          "url": "https://wallstreetcn.com/articles/3777301",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[06时40分 ~ 09时48分]"
         },
         {
