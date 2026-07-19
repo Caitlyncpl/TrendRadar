@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:21:59.827837+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-07-19T23:48:20.893356+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时01分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[04时01分 ~ 23时48分]"
         },
         {
           "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
