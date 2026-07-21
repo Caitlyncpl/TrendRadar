@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T15:34:33.355036+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-07-21T18:17:00.857281+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 18时17分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -36,11 +37,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 18时17分]"
         }
       ]
     }
