@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T20:20:52.193714+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-07-21T22:56:22.574631+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,21 @@
           "time_info": "[09时47分 ~ 15时34分]"
         },
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 22时56分]"
+        },
+        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时01分 ~ 18时17分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 20时20分]"
         }
       ]
     }
