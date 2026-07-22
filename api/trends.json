@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:49:18.165216+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-22T09:47:00.416607+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 09时47分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
