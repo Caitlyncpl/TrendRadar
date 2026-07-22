@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T18:16:12.790887+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-07-22T20:24:07.870800+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 20时24分]"
+        },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
@@ -21,18 +33,6 @@
           "time_info": "[00时17分 ~ 13时02分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 18时16分]"
-        },
-        {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
           "url": "https://flash.jin10.com/detail/20260722034543375800",
           "source": "金十数据",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时24分]"
         },
         {
           "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时35分 ~ 18时16分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
