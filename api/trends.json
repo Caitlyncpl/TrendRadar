@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T05:59:11.058274+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-07-23T06:58:21.608621+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时58分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时58分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -40,19 +41,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时58分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时58分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -62,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 06时58分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -105,7 +107,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -116,7 +118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         }
