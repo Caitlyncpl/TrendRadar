@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:35:20.070299+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-07-22T18:16:12.790887+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 18时16分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -54,6 +54,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时57分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 18时16分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -87,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
-          "url": "https://www.cls.cn/detail/2433554",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
