@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-24T06:52:24.334539+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-07-24T07:53:36.383395+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
         {
           "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
           "url": "https://flash.jin10.com/detail/20260724034515352800",
