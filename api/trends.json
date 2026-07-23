@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T10:35:47.101961+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-07-23T13:45:51.843544+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 13时45分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
