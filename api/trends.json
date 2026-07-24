@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T18:55:01.487913+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-07-24T20:13:58.307703+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时09分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 20时13分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 20时13分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
