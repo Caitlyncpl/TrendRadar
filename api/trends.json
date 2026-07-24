@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:12:13.477795+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-07-25T05:57:59.820009+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时12分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[02时12分 ~ 05时57分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
