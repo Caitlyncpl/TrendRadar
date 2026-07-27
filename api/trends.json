@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T01:31:54.275551+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-28T03:14:21.699294+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时14分]"
         }
       ]
     }
