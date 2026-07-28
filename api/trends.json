@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T15:41:06.379447+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-07-28T18:26:10.110124+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -16,11 +16,23 @@
             15,
             16,
             21,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 18时26分]"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
