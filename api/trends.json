@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T09:44:51.834253+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-07-28T12:56:43.226622+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 09时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 12时56分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
