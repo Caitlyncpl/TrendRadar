@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T03:11:36.970139+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-07-31T04:57:37.364775+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 04时57分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -25,7 +25,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
