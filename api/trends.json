@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T13:27:34.263402+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-07-31T17:14:11.518081+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 13时27分]"
+        },
+        {
+          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
+          "url": "https://www.zhihu.com/question/2065499504187371980",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
