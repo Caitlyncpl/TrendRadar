@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T09:56:16.119157+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-08-01T13:20:03.787174+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "04时55分"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时20分]"
+        },
+        {
           "title": "报道：OpenAI本周预览了AI模型Astra",
           "url": "https://wallstreetcn.com/livenews/3143500",
           "source": "华尔街见闻-快讯",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 09时56分]"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 09时56分]"
         },
         {
           "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
@@ -108,7 +109,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
