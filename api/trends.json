@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T16:07:54.057940+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-08-02T18:27:11.696021+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 16时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 18时27分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 18时27分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
