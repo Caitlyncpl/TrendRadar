@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T09:54:53.846755+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-08-03T13:34:13.303906+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -13,11 +13,34 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 09时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时34分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         }
       ]
     }
