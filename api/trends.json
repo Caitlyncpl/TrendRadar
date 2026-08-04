@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T06:59:55.266966+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-04T08:09:28.565918+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 08时09分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -35,11 +35,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时09分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
