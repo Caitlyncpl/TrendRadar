@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T08:55:38.282160+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-08-08T10:51:40.767849+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 10时51分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
