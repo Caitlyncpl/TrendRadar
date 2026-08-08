@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:23:13.399476+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-09T04:19:31.398040+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 04时19分]"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
