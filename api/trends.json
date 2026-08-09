@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-08-09T23:23:04.918254+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-08-10T00:23:53.695396+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 11时01分]"
-        },
-        {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
