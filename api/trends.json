@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T03:49:21.650872+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-11T04:32:46.330594+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
@@ -94,7 +94,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
