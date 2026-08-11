@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T01:50:51.388893+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-12T02:48:47.653733+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时48分]"
         },
         {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
