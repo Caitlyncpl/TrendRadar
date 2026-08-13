@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T18:54:29.758795+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-08-13T20:47:09.612828+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时52分 ~ 18时54分]"
+          "appearance_count": 12,
+          "time_info": "[01时52分 ~ 20时47分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -53,7 +54,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -64,7 +65,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
