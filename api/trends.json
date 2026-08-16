@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-08-15T08:42:06.665526+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-08-16T08:43:42.104878+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
           "source": "金十数据",
           "ranks": [
-            7
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时42分"
+          "time_info": "08时43分"
         }
       ]
     }
