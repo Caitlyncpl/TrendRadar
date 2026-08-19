@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-19T01:28:36.263491+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-20T06:16:00.067878+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "OpenAI 百度 阿里 腾讯 华为 ChatGPT Claude Gemini GPT-4",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
+          "url": "https://wallstreetcn.com/articles/3779748",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
+          "title": "谷歌表示，Waymo将Gemini集成到定制无人驾驶出租车Ojai中。",
+          "url": "https://wallstreetcn.com/livenews/3151946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "OpenAI：我们将继续为前沿模型提供零数据留存服务。随着人工智能承担更长、自主性更强的工作，并为企业创造更高价值，安全系统也需要识别各类关联交互中存在的风险。为应对上述风险，我们推出私有安全处理预览版，该技术旨在提升安全防护水平，同时不让 OpenAI 工作人员接触底层原始内容。",
+          "url": "https://wallstreetcn.com/livenews/3151926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Caitlyncpl/TrendRadar/tree/main/.github/img/news.jpg"
 }
